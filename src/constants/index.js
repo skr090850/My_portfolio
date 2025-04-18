@@ -269,52 +269,52 @@ const projects = [
     image: project1,
     source_code_link: "https://github.com/skr090850/Vehicle_Verified_App",
   },
-  {
-    name: "GearXpert",
-    description:
-      "GearXpert is your ultimate destination for premium auto parts and accessories, Whether you're an automobile enthusiast or a professional, find everything you need to upgrade, repair.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "emailJs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Gsap",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: gearXpert,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "GoGroove-Ecommerce",
-    description:
-      "Go-Groove is your ultimate destination for premium products across various categories. Whether you're a savvy shopper or a professional, enhance, and simplify your lifestyle—all in one place!",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "express",
-        color: "white-text-gradient",
-      },
-      {
-        name: "node",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-    ],
-    image: project3,
-    source_code_link: "https://github.com/",
-  },
+  // {
+  //   name: "GearXpert",
+  //   description:
+  //     "GearXpert is your ultimate destination for premium auto parts and accessories, Whether you're an automobile enthusiast or a professional, find everything you need to upgrade, repair.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "emailJs",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "Gsap",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: gearXpert,
+  //   source_code_link: "https://github.com/",
+  // },
+  // {
+  //   name: "GoGroove-Ecommerce",
+  //   description:
+  //     "Go-Groove is your ultimate destination for premium products across various categories. Whether you're a savvy shopper or a professional, enhance, and simplify your lifestyle—all in one place!",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "express",
+  //       color: "white-text-gradient",
+  //     },
+  //     {
+  //       name: "node",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "green-text-gradient",
+  //     },
+  //   ],
+  //   image: project3,
+  //   source_code_link: "https://github.com/",
+  // },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
