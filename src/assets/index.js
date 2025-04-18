@@ -30,7 +30,7 @@ import firstTestimonial from './Tars Ken.webp';
 import secondTestimonial from './image.webp';
 import thirdTestimonial from './third testimonial.webp'
 import python from './tech/python.png'
-import android from './tech/android Studio.png'
+import android from './tech/android_studio.png'
 import c from './tech/c.png'
 import cpp from './tech/cpp.png'
 import flutter from './tech/flutter.png'
