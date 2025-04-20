@@ -180,7 +180,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "10th",
+    title: "10th (68%)",
     company_name: "H.P.D. high school, Arrah, Bihar",
     icon: school,
     iconBg: "#383E56",
@@ -194,7 +194,7 @@ const experiences = [
     ],
   },
   {
-    title: "12th",
+    title: "12th (68.6%)",
     company_name: "Sanjay Gandhi College, Arrah, Bihar",
     icon: school,
     iconBg: "#383E56",
@@ -206,7 +206,7 @@ const experiences = [
     ],
   },
   {
-    title: "B.C.A.",
+    title: "B.C.A. (8.43 CGPA)",
     company_name: "Cimage Professional College, Patna, Bihar",
     icon: cimage,
     iconBg: "#383E56",
